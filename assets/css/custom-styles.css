@@ -1,0 +1,7 @@
+.portfolio-block.project .image {
+  height: 300px !important;
+  margin-bottom: 50px !important;
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+  margin-left: 40px !important;
+}
